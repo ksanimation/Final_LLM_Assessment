@@ -1,1 +1,6 @@
-# Final_LLM_Assessment
+Summary
+
+The top three positive employees were Lydia Delgado with a sentiment score of 110, John Arnold with a sentiment score of 92, and Johnny Palmer with a sentiment score of 92. The top three negative employees were Don Baughman with a score of 68, Rhonda Denton with a score of 61, and Kayne Coulter with a score of 55.
+The employees flagged as flight risks are Don Baughman, John Arnold, Kayne Coulter, Sally Beck, Bobette Riner, Johnny Palmer, Lydia Delgado, Patti Thompson, Eric Bass, and Ronda Denton.
+
+My recommendations are to analyze a bigger dataset with the demographics of the employees to see if any variables play a factor in sentiment like income and to collect survey data from the flight risk group as to the reasons why employees would have more negative sentiment compared to positive sentiment. Another recommendation is to compare the data to any major stressor events at the company like the end of a quarter when a lot of reports are due and see a stressful work time period contributes to the sentiment. More data analysis is needed due to a number of factors that may contribute to sentiment.
